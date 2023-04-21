@@ -3,7 +3,7 @@
 🎂 1997.10.15 <br>
 📞 010-5633-7014 <br>
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltkim99@gmail.com)](mailto:spiltkim99@gmail.com) <span><a href="https://www.notion.so/999813dac531471dace5dff3740e53d2"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black" target="_blank"/></span></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:spiltkim99@gmail.com)](mailto:spiltkim99@gmail.com) <span><a href="https://www.notion.so/999813dac531471dace5dff3740e53d2" target="_blank"><img src="https://img.shields.io/badge/Notion-00000?style=round-square&logo=Notion&logoColor=black"/></span></a>
 
 
 
